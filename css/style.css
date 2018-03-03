@@ -1,0 +1,37 @@
+li{
+	color:red;
+	
+}
+#param1{
+	color:blue;
+}
+body {
+	background-color: white;
+}
+.actor{
+	color: green;
+	display: inline;
+
+}
+.actor:hover {
+	color: red;
+}
+.actor:active{
+	border-bottom: 2px black;
+	border-style: dashed;
+	color: black;
+	border-left: none;
+	border-right : none;
+	border-top: none;
+	border-width: 10%
+}
+#fazet{
+	display: inline-block;
+	background-color:red;
+	padding:25px green;
+	border:27px solid green;
+	margin:16%;
+}
+.centre{
+	text-align: center;
+}
